@@ -4,7 +4,7 @@ console.log("Scrpit By Dream");
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("568902679821025280")
+let channel =     client.channels.get("569089717354889228")
 setInterval(function() {
 channel.send(`Mamboooooooo`);
 }, 30)
